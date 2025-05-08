@@ -4,7 +4,7 @@ DenzShop merupakan aplikasi online berbasis website. aplikasi ini menampilkan be
 
 ## Fitur
 
-- Halaman Beranda yang menampilkan promo dan produk unggulan
+- Halaman Beranda yang menampilkan alasan memilih DenzShop dan produk unggulan
 - Halaman Produk yang menampilkan produk-produk yang tersedia
 - Halaman Keranjang yang menampilkan produk-produk yang telah di tambahkan ke keranjang
 - Halaman Check Out yang menampilkan detail transaksi dan total harga
