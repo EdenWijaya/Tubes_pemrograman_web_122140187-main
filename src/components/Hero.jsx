@@ -29,7 +29,7 @@ const Hero = () => {
           className="flex-1 text-center md:text-left"
         >
           <h2 className="text-4xl md:text-5xl font-bold text-sky-800 mb-4">
-            Selamat datang di <span className="text-black">Denz</span>Shop
+            Selamat datang di Denz<span className="text-black">Shop</span>
           </h2>
           <p className="text-gray-700 mb-6">Temukan produk terbaik dengan harga terbaik, langsung dari rumahmu</p>
           <Link to="/product" className="bg-sky-800 text-white px-6 py-3 rounded-md hover:bg-sky-700 transition">

@@ -1,8 +1,6 @@
-/******\******* ✨ Windsurf Command ⭐ ******\*******/
-
 # DenzShop
 
-Aplikasi E-commerce berbasis React yang dibuat untuk memenuhi tugas UTS mata kuliah Pemrograman Web.
+DenzShop merupakan aplikasi online berbasis website. aplikasi ini menampilkan beberapa barang elektronik, seperti laptop, handphone, dan jam tangan. aplikasi ini juga dilengkapi dengan fitur pembayaran dan update profile
 
 ## Fitur
 
@@ -27,13 +25,4 @@ Aplikasi E-commerce berbasis React yang dibuat untuk memenuhi tugas UTS mata kul
 1. Clone repository ini
 2. Install dependencies dengan menjalankan perintah `npm install`
 3. Jalankan aplikasi dengan menjalankan perintah `npm run dev`
-4. Buka browser dan akses aplikasi melalui alamat `http://localhost:3000`
-
-## Screenshot
-
-![Beranda](https://i.ibb.co/5xkLKYX/beranda.png)
-![Produk](https://i.ibb.co/2KzjJ0h/produk.png)
-![Keranjang](https://i.ibb.co/6WH0zqG/keranjang.png)
-![Check Out](https://i.ibb.co/L0FV9rQ/checkout.png)
-![Profile](https://i.ibb.co/0K7zV9V/profile.png)
-/**\*\*\*** 2e70e068-ce46-4e9b-aca0-8a81d0b12e59 **\*\*\***/
+4. Buka browser dan akses aplikasi melalui alamat local host yang muncul pada terminal
