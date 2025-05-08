@@ -1,12 +1,39 @@
-# React + Vite
+/******\******* ✨ Windsurf Command ⭐ ******\*******/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# DenzShop
 
-Currently, two official plugins are available:
+Aplikasi E-commerce berbasis React yang dibuat untuk memenuhi tugas UTS mata kuliah Pemrograman Web.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Fitur
 
-## Expanding the ESLint configuration
+- Halaman Beranda yang menampilkan promo dan produk unggulan
+- Halaman Produk yang menampilkan produk-produk yang tersedia
+- Halaman Keranjang yang menampilkan produk-produk yang telah di tambahkan ke keranjang
+- Halaman Check Out yang menampilkan detail transaksi dan total harga
+- Halaman Profile yang menampilkan profil pengguna dan memungkinkan pengguna untuk mengedit profilnya
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Teknologi yang digunakan
+
+- React sebagai framework frontend
+- Vite sebagai build tool
+- Tailwind CSS sebagai CSS framework
+- Lucide React sebagai icon library
+- AOS sebagai animasi library
+- Lottie sebagai animasi library
+- Framer Motion sebagai animation library
+
+## Cara menjalankan aplikasi
+
+1. Clone repository ini
+2. Install dependencies dengan menjalankan perintah `npm install`
+3. Jalankan aplikasi dengan menjalankan perintah `npm run dev`
+4. Buka browser dan akses aplikasi melalui alamat `http://localhost:3000`
+
+## Screenshot
+
+![Beranda](https://i.ibb.co/5xkLKYX/beranda.png)
+![Produk](https://i.ibb.co/2KzjJ0h/produk.png)
+![Keranjang](https://i.ibb.co/6WH0zqG/keranjang.png)
+![Check Out](https://i.ibb.co/L0FV9rQ/checkout.png)
+![Profile](https://i.ibb.co/0K7zV9V/profile.png)
+/**\*\*\*** 2e70e068-ce46-4e9b-aca0-8a81d0b12e59 **\*\*\***/
